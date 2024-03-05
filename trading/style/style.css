@@ -1,0 +1,44 @@
+
+h1, h2{
+    text-align: center; 
+    direction: rtl;
+}
+.slideone{
+    margin: 50px;
+}
+#media{
+    direction: ltr;
+}
+section, p{
+    direction: rtl;
+    font-size: 35px;
+}
+img{
+    padding: 50px;
+}
+#information{
+    direction: rtl;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+#about{
+    direction: rtl;
+    font-size: 30px;
+}
+#education{
+    direction: rtl;
+    font-size: 25px;
+}
+footer{
+    font-size: 25px;
+    background-color: gray;
+    direction: rtl
+}
+#contactus{
+    background-color: gray;
+    direction: rtl;
+    font-size: 25px;
+    margin: 50px;
+    padding: 50px;
+}
+
